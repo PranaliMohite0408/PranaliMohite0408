@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **pranalimohite482000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
