@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranali</h1>
+<h1 align="center">Hi 👋, I'm Pranali Mohite</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranalimohite0408&label=Profile%20views&color=0e75b6&style=flat" alt="pranalimohite0408" /> </p>
