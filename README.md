@@ -2,12 +2,14 @@
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranalimohite0408&label=Profile%20views&color=0e75b6&style=flat" alt="pranalimohite0408" /> </p>
-  
+
 - 🌱 I’m currently learning **Angular**
 
-💬 Ask me about **C,C++,C#,Python**
+- 💬 Ask me about **C,C++,C#,Python**
 
 - 📫 How to reach me **pranalimohite482000@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
